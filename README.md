@@ -18,7 +18,7 @@ The following six files are packaged a single large .zip file, available for dow
 
 For information about any of the content described here, please contact [Associate Professor Ye Wang](mailto:wangye@comp.nus.edu.sg) at the SMC Lab.
 
-For further queries about other ways in which LyricFind could be incorporated into your research, please contact [Roy Hennig] (mailto:roy@lyricfind.com), LyricFind’s Director of Sales.
+For further queries about other ways in which LyricFind could be incorporated into your research, please contact [Roy Hennig](mailto:roy@lyricfind.com), LyricFind’s Director of Sales.
 
 ### Paper citation:
 Ellis, R.J., Xing, Z., Fang, J., & Wang, Y. (2015). Quantifying lexical novelty in song lyrics. Proceedings of the 15th International Conference on Music Information Retrieval.
