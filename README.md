@@ -10,7 +10,7 @@ The following six files are packaged a single large .zip file, available for dow
 ### [Download in .txt format](http://www.smcnus.org/data/lyricfind_corpus_txt.zip)
 ### [Download in .xls format](http://www.smcnus.org/data/lyricfind_corpus_xlsx.zip)
 - A set of cleaning rules (and a Python script), used to standardize the orthography of the original lyrics.
-- A 66,975-item list of valid dictionary words used across the lyrics corpus, along with their document and corpus frequencies from the lyrics corpus. For convenience, the document and corpus frequencies associated with the SUBLTEX-US corpus are also provided (please do note the appropriate citation for this data). The “wordID” index is used to identify words in the bag-of-words format.
+- A 66,975-item list of valid dictionary words used across the lyrics corpus, along with their document and corpus frequencies from the lyrics corpus. For convenience, the document and corpus frequencies associated with the [SUBLTEX-US corpus](https://www.ugent.be/pp/experimentele-psychologie/en/research/documents/subtlexus) are also provided (please do note the appropriate citation for this data). The “wordID” index is used to identify words in the bag-of-words format.
 - A large file containing the set of wordIDs (including repeated words) for 275,905 lyrics.
 - A cross-reference file which associates the 275,905 distinct lyrics with a larger set of 360,919 lyrics that includes “duplicates” of the 275,905 distinct lyrics across different recordings/artists.
 - A metadata file comprising song title, artist name, and album title for 360,919 lyrics. Our recently developed Lexical Novelty Score is also provided for each lyric.
@@ -22,3 +22,5 @@ For further queries about other ways in which LyricFind could be incorporated in
 
 ### Paper citation:
 Ellis, R.J., Xing, Z., Fang, J., & Wang, Y. (2015). Quantifying lexical novelty in song lyrics. Proceedings of the 15th International Conference on Music Information Retrieval.
+
+<img src = ''>
