@@ -23,4 +23,5 @@ For further queries about other ways in which LyricFind could be incorporated in
 ### Paper citation:
 Ellis, R.J., Xing, Z., Fang, J., & Wang, Y. (2015). Quantifying lexical novelty in song lyrics. Proceedings of the 15th International Conference on Music Information Retrieval.
 
+### Sample finding:
 <img src = 'LNS_artist.png'>
