@@ -1,6 +1,6 @@
 # LyricFind Corpus
 
-(Cross-posted https://smcnus.comp.nus.edu.sg/)  
+(Cross-posted from https://smcnus.comp.nus.edu.sg/)  
 
 Welcome to the LyricFind Corpus, developed at the [Sound and Music Computing Laboratory](https://smcnus.comp.nus.edu.sg/) at the National University of Singapore, with the very gracious support and partnership of [LyricFind](http://www.lyricfind.com/), a world leader in legal lyrics licensing and retrieval.
 
