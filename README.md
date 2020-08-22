@@ -1,6 +1,6 @@
 # LyricFind Corpus
 
-(Cross-posted from [here](https://www.smcnus.org/lyrics/).)  
+(Cross-posted https://www.smcnus.org/.)  
 
 Welcome to the LyricFind Corpus, developed at the [Sound and Music Computing Laboratory](https://www.smcnus.org/) at the National University of Singapore, with the very gracious support and partnership of [LyricFind](http://www.lyricfind.com/), a world leader in legal lyrics licensing and retrieval.
 
@@ -8,9 +8,7 @@ In addition to providing the raw data which comprises the analyses in our [ISMIR
 
 We believe that this dataset marks the largest and cleanest set of lyrics in bag-of-words format yet available, although comparisons with the Million Song Dataset’s [musiXmatch lyrics corpus](https://labrosa.ee.columbia.edu/millionsong/musixmatch) are certainly warranted!
 
-The following six files are packaged a single .zip of .txt and .py files:
-### [Mirror 1](http://www.smcnus.org/data/lyricfind_corpus_txt.zip)
-### [Mirror 2](http://robjellis.net/lyricfind_corpus_txt.zip)
+The following six files are [packaged](http://robjellis.net/lyricfind_corpus_txt.zip) a single .zip of .txt and .py files:
 - A set of cleaning rules (and a Python script), used to standardize the orthography of the original lyrics.
 - A 66,975-item list of valid dictionary words used across the lyrics corpus, along with their document and corpus frequencies from the lyrics corpus. For convenience, the document and corpus frequencies associated with the [SUBLTEX-US corpus](https://www.ugent.be/pp/experimentele-psychologie/en/research/documents/subtlexus) are also provided (please do note the appropriate citation for this data). The “wordID” index is used to identify words in the bag-of-words format.
 - A large file containing the set of wordIDs (including repeated words) for 275,905 lyrics.
