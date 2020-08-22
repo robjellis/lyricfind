@@ -1,8 +1,8 @@
 # LyricFind Corpus
 
-(Cross-posted https://www.smcnus.org/.)  
+(Cross-posted https://smcnus.comp.nus.edu.sg/)  
 
-Welcome to the LyricFind Corpus, developed at the [Sound and Music Computing Laboratory](https://www.smcnus.org/) at the National University of Singapore, with the very gracious support and partnership of [LyricFind](http://www.lyricfind.com/), a world leader in legal lyrics licensing and retrieval.
+Welcome to the LyricFind Corpus, developed at the [Sound and Music Computing Laboratory](https://smcnus.comp.nus.edu.sg/) at the National University of Singapore, with the very gracious support and partnership of [LyricFind](http://www.lyricfind.com/), a world leader in legal lyrics licensing and retrieval.
 
 In addition to providing the raw data which comprises the analyses in our [ISMIR 2015 paper](http://robjellis.net/papers/Ellis_Xing_Fang_Wang_ISMIR_2015.pdf) **“Quantifying Lexical Novelty in Song Lyrics”**, we are also pleased to provide 275,905 distinct lyrics in bag-of-words format (67.6 million total word instances), along with identifying lyric, artist, and album IDs that can be cross-referenced with the LyricFind ecosystem.
 
