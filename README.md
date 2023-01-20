@@ -1,6 +1,6 @@
 # LyricFind Corpus
 
-(Cross-posted from https://smcnus.comp.nus.edu.sg/)  
+(Cross-posted from https://www.smcnus.org/lyrics/)  
 
 Welcome to the LyricFind Corpus, developed at the [Sound and Music Computing Laboratory](https://smcnus.comp.nus.edu.sg/) at the National University of Singapore, with the very gracious support and partnership of [LyricFind](http://www.lyricfind.com/), a world leader in legal lyrics licensing and retrieval.
 
@@ -22,6 +22,9 @@ For further queries about other ways in which LyricFind could be incorporated in
 
 ### Paper citation:
 Ellis, R.J., Xing, Z., Fang, J., & Wang, Y. (2015). Quantifying lexical novelty in song lyrics. Proceedings of the 15th International Conference on Music Information Retrieval. Online at http://ismir2015.uma.es/articles/116_Paper.pdf.
+
+### Dataset citation:
+Ellis, R.J., Xing, Z., Fang, J., Wang Ye (2017-11-17). LyricFind Corpus. ScholarBank@NUS Repository. [Dataset]. https://doi.org/10.25540/3QJJ-31J=
 
 ## Sample finding:
 <img src = 'LNS_artist.png'>
